@@ -1,2 +1,4 @@
 # homepage
-My first personal website.
+My first Personal Website.
+
+Initial README Commit
